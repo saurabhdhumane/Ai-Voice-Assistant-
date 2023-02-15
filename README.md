@@ -17,15 +17,15 @@ Jarvis is a Python-based AI assistant that can perform various tasks such as sea
   
 You can install the required packages using pip by running the following command:
 
-  'python.exe -m pip install --upgrade pip'
+  - python.exe -m pip install --upgrade pip
   
-  pip install -r requirements.txt
+  - pip install -r requirements.txt
 
-  pip install wikipedia
+  - pip install wikipedia
     
-  pip install PyAudio
+  - pip install PyAudio
   
-  pip install pyttsx3
+  - pip install pyttsx3
   
   
  # Usage
